@@ -2,3 +2,14 @@
     height: 600px;
     background-color: beige;
 }
+
+a { 
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+hr {
+    font-weight: bold;
+    opacity: 1;
+}
